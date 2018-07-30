@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusyBox</string>
+    <string name="counter_title">Counter</string>
+    <string name="increment_label">Increment</string>
+    <string name="history_label">Count History</string>
+    <string name="press_label">Button Press date</string>
+    <string name="press_value_label">value</string>
+    <string name="shake_label">Shake Action date</string>
+    <string name="shake_tooltip">Shake device to clear history</string>
+</resources>
